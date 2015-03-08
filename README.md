@@ -12,6 +12,13 @@ Pythonやライブラリのインストールに関するリンク。
     * [Installing Python on Windows - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/win/)
 * Installation
     * [Installing Python on Linux - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/linux/)
+
+Tutorial
+-------
+* [The Python Tutorial - Python 2.7.9 documentation](https://docs.python.org/2/tutorial/index.html)
+    * Pythonの公式チュートリアル。
+
+
 Style Guide
 -----------
 スタイルガイド。
