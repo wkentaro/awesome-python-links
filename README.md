@@ -52,8 +52,9 @@ Third Party Library
 
 General Guide
 -------------
-全般的なガイド。
+全般的なガイドを行っているサイト。
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+    * プロジェクト管理・スタイルガイド・テスト・ログに関して。
 
 
 LICENSE
