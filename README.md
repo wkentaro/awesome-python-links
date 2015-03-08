@@ -30,6 +30,26 @@ Style Guide
     * [kennethreitz](https://github.com/kennethreitz)によるスタイルガイド。
 
 
+Standard Library
+----------------
+標準ライブラリに関するリンク。
+* [The Python Standard Library](https://docs.python.org/2/library/index.html)
+
+
+Third Party Library
+-------------------
+サードパーティライブラリに関するリンク。
+* Numpy
+    * [Numpy - Numpy](http://www.numpy.org/)
+        * Numpyの公式ページ。インストール方法・チュートリアル・ドキュメントなど。
+    * [Pythonの数値計算ライブラリ NumPy入門](http://qiita.com/wellflat/items/284ecc4116208d155e01)
+        * Numpyの入門。基本的なところから紹介している。
+    * [今年覚えたnumpyの関数](http://qiita.com/neka-nat@github/items/5aa2b4402d50b8791b8b)
+        * 少しマイナーな関数を紹介している。
+    * [python/numpy - 機械学習の「朱鷺の杜Wiki」](http://ibisforest.org/index.php?python%2Fnumpy#a87a4d25)
+        * 機械学習でよく使われる演算などを中心にNumpyを紹介している。
+
+
 General Guide
 -------------
 全般的なガイド。
