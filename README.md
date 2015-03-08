@@ -11,3 +11,9 @@ Style Guide
     * Google社内でのスタイルガイド。
 * [Code Style - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
     * [kennethreitz](https://github.com/kennethreitz)によるスタイルガイド。
+
+
+LICENSE
+-------
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
