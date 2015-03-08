@@ -3,6 +3,15 @@ Awesome Python Links
 Pythonに関するリンク集。
 
 
+Installation
+------------
+Pythonやライブラリのインストールに関するリンク。
+* Mac OS X
+    * [Installing Python on Mac OS X - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/osx/)
+* Windows
+    * [Installing Python on Windows - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/win/)
+* Installation
+    * [Installing Python on Linux - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/linux/)
 Style Guide
 -----------
 スタイルガイド。
