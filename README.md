@@ -2,21 +2,13 @@ Awesome Python Links
 ======================
 Pythonに関するリンク集。
 
-
-Installation
-------------
-Pythonやライブラリのインストールに関するリンク。
-* Mac OS X
-    * [Installing Python on Mac OS X - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/osx/)
-* Windows
-    * [Installing Python on Windows - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/win/)
-* Installation
-    * [Installing Python on Linux - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/linux/)
-
-Tutorial
--------
-* [The Python Tutorial - Python 2.7.9 documentation](https://docs.python.org/2/tutorial/index.html)
-    * Pythonの公式チュートリアル。
+* [Style Guide](#style-guide)
+* [Standard Library](#stadard-library)
+* [Third Party Library](#third-party-library)
+* [General Guide](#general-guide)
+* [Installation](#installation)
+* [Tutorial](#tutorial)
+* [License](#license)
 
 
 Style Guide
@@ -57,7 +49,24 @@ General Guide
     * プロジェクト管理・スタイルガイド・テスト・ログに関して。
 
 
-LICENSE
+Installation
+------------
+Pythonやライブラリのインストールに関するリンク。
+* Mac OS X
+    * [Installing Python on Mac OS X - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/osx/)
+* Windows
+    * [Installing Python on Windows - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/win/)
+* Installation
+    * [Installing Python on Linux - The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/install/linux/)
+
+
+Tutorial
+-------
+* [The Python Tutorial - Python 2.7.9 documentation](https://docs.python.org/2/tutorial/index.html)
+    * Pythonの公式チュートリアル。
+
+
+License
 -------
 CC0 1.0 Universal
 https://creativecommons.org/publicdomain/zero/1.0/
